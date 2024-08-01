@@ -8,7 +8,25 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
+        
+        
+        Good Visualisation - Sales Dashboard
 
+        Accessibility-  It uses a good contrasting color palette (solid color against a white background) making it accessible to users with visual issues. Also the text is well readable being of dark color and good size. It also loows users to zoom and filter data which is good. We can see some features bottom right corner for screen compatibility which is good.
+
+        Reproducibility - Common chart types ( bar charts, line charts etc) are used which ensures it can be easily replicated using readily available data visualisation tools. We have to presume the data sources is public (for us) or reaadily available to internal employees of the compnay in question.This will make it easier for others to reproduce the visualisation with the same data. Also we have to presume code can be shared.
+
+        Equity - The use of neutral colors like blue and green avoids cultural biases. Also the data is presented in a way that does not favor any particular group. We have to presume there is equitable access to  all employees of the company.
+
+
+
+        Bad Visualisation- Opportunity Dashboard 
+
+        Accessibility-  Use of ligh blue and gray colors is done which can be avoided for individuals with issues with their vision. Inconsistent font sizes used are also not preferred. There are no features to zoom the graphs. Contrast is not good in some of the graphs like Opportunity by Location. Screen compatibility features included.
+
+        Reproducibility - Complex and uncommon chart types have been used which may not be readily available for use as part of some standard softwares. Hence we presume the visualisation is not readily reproducible. We can assume the data source is readily accessible to users and hence does not affect reproducibility. Also we have to presume code can be shared. There seems to be a lot of ChartJunk and the clutter makes readibility difficult.
+
+        Equity - The use of neutral colors like blue avoids cultural biases. Also the data is presented in a way that does not favor any particular group. We have to presume there is equitable access to  all employees of the company.
 
 
         ```
@@ -16,7 +34,22 @@
         ```
         Your answer...
 
+        Good Visualisation - Sales Dashboard
 
+        Accessibility-  Use of descriptive texts for charts will be better for individuals with issues with their vision. 
+
+        Reproducibility - Not sure but can presume open data source, open code and compatilibity with other versions of the software (version control).
+
+        Equity - We assume that data collection and representation is without biases. Also due care has been taken for all ethical considerations like contextualisation and inclusive language.
+
+
+        Bad Visualisation- Opportunity Dashboard 
+
+        Accessibility-  Use of high contrasting neutral colors. Consistent font sizes to be used. Features to zoom, pan and filter the graphs. 
+
+        Reproducibility - Using common standardized chart types which may be readily available for use. Not sure but can presume open data source, open code and compatilibity with other versions of the software (version control).
+
+        Equity - We assume that data collection and representation is without biases. Also due care has been taken for all ethical considerations like contextualisation and inclusive language. Ensure diverse representations by avoiding sterotypes and biases.
 
         ```
 
