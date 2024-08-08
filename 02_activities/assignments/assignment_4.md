@@ -7,23 +7,54 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
+ 
+ 
+  Please find below link to dataset used
+  Ontario consumer price index
+  Ministry: Agriculture, Food and Rural Affairs 
+  https://data.ontario.ca/dataset/29a55543-3e27-4d7a-8ce5-7b669305b2d8/resource/cfeca07a-7752-4e54-b109-fe20467413a2/download/cpi.xlsx
+  The Consumer Price Index measures changes in the cost of selected food items over time like: food purchased from stores fresh or frozen beef fresh or frozen pork fresh or frozen chicken... 
+    
+    
     > What software did you use to create your data visualization?
-
+ - I did all visualizations in Python only. I made three different vizualizations.
+ 
     > Who is your intended audience? 
-    
+ - Intended audience could be government officials and/or ontario residents who will review and decide on future actions.
+
     > What information or message are you trying to convey with your visualization? 
-    
+ - Trends of the CPI over time 1979-2023 showing a consistent increase in CPI.
+ 
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
+ - Substantive: Clearly showing the trend over time with minimal distractions. No Chartjunk and focus on temporal trends.
+ - Perceptual: Using distinct colors for different categories ensures visual clarity.
+ - Aesthetic: The charts are clean and simple showing both axes, gridlines, title and legend. Minimalistic charts with clean lines following design consistency.
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+ - I have used widely available Python libraries like Matplotlib and Seaborn. As teh code is shared in markdown file it ensures code transparency and reproducibility.
+
     > How did you ensure that your data visualization is accessible?  
-    
+ - Inclusive color schemes with good contrast
+ - Readable text
+ - Well placed legend.
+
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+ - The visualizations provide insights into CPI trends in Ontario for economic decision-making. By clearly displaying historical CPI data the charts support informed discussions on economic policies.
+
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+ - The 'Date' and 'CPI' data was used as the primary attributes to show the trend of CPI over time. This feature selection ensured the visualization shows the time-series data relevant to the analysis.
+
     > What ‘underwater labour’ contributed to your final data visualization product?
+ - The underwater labour involved preparing the dataset, coding the chart, and fine-tuning
+ - Data Cleaning: First, we had to clean the data. This involved removing any irrelevant rows or columns and ensuring that only the necessary data points were used. 
+
+ - Data Filtering: Then I filtered the data to include only the relevant columns for plotting.
+
+ - Chart Customization: Once the data was prepared I customized the chart to enhance its readability and visual appeal.
+
+    - Choosing color schemes that are accessible to all types of individuals.
+    - Setting options for font size, color, and style to make the chart’s labels and legend easy to read.
+    
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
